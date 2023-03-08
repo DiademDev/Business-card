@@ -2,7 +2,7 @@ const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    const start = async () => {
+ /*   const start = async () => {
 
     const mindarthree = new window.MINDAR.IMAGE.MindARThree ({
         container: document.body,
@@ -25,4 +25,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     }
     start();
+    */
 });
